@@ -512,7 +512,11 @@
 			}
 
 			.icon.rounded.fa-facebook {
-				background-color: #39599f;
+				background-color: #3b5998;
+			}
+
+			.icon.rounded.fa-instagram {
+				background: linear-gradient(15deg, rgba(242,255,137,1) 0%, rgba(243,221,113,1) 7%, rgba(243,186,89,1) 10%, rgba(244,133,51,1) 20%, rgba(222,91,98,1) 32%, rgba(208,63,130,1) 52%, rgba(185,49,165,1) 68%, rgba(109,61,190,1) 91%);
 			}
 
 			.icon.rounded.fa-google-plus {
